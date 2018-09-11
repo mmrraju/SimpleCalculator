@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="edit_text_result">Result</string>
+    <string name="cos_button">cos</string>
+    <string name="tan_button">tan</string>
+    <string name="image_button">img</string>
+    <string name="clear_button">clear</string>
+    <string name="multy_button">*</string>
+    <string name="div_button">/</string>
+    <string name="button_one">1</string>
+    <string name="button_two">2</string>
+    <string name="button_three">3</string>
+    <string name="button_four">4</string>
+    <string name="button_five">5</string>
+    <string name="button_six">6</string>
+    <string name="button_seven">7</string>
+    <string name="button_eight">8</string>
+    <string name="button_nine">9</string>
+    <string name="button_zero">0</string>
+    <string name="add_button">+</string>
+    <string name="sub_button"> - </string>
+    <string name="equal_button">=</string>
+    <string name="sin_button">sin</string>
+    <string name="dot_button">.</string>
+    <string name="exit_button">Exit</string>
+    <string name="image_view">Image</string>
+</resources>
